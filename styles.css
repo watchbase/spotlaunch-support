@@ -229,6 +229,15 @@ footer {
   display: block;
 }
 
+.how-to-video {
+  max-width: 320px;
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  display: block;
+  margin-top: 8px;
+}
+
 .contact-card {
   background: var(--surface);
   border: 1px solid var(--border);
