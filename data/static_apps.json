@@ -1,0 +1,222 @@
+[
+  {
+    "id": "wallet",
+    "brandName": "Wallet",
+    "appName": "Wallet",
+    "customURLScheme": "shoebox",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "paypay",
+    "brandName": "PayPay",
+    "appName": "PayPay",
+    "customURLScheme": "paypay",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "rakutenpay",
+    "brandName": "楽天ペイ",
+    "appName": "楽天ペイ",
+    "customURLScheme": "rakutenpay",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "dpayment",
+    "brandName": "d払い",
+    "appName": "d払い",
+    "customURLScheme": "dpayment",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "tpointapp",
+    "brandName": "Tポイント",
+    "appName": "Tポイント",
+    "customURLScheme": "tpointapp",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "unknown:nanaco",
+    "brandName": "nanaco",
+    "appName": "nanaco",
+    "customURLScheme": "",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "aeonwalletapp",
+    "brandName": "AEON Pay",
+    "appName": "AEON Pay",
+    "customURLScheme": "aeonwalletapp",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "イオン",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "unknown:レジゴー",
+    "brandName": "レジゴー",
+    "appName": "レジゴー",
+    "customURLScheme": "",
+    "category": "スーパー",
+    "shortcutName": "",
+    "linkedBrand": "イオン",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "unknown:Ponta",
+    "brandName": "Ponta",
+    "appName": "Pontaポイントカード",
+    "customURLScheme": "",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "ローソン",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "sejsmrg",
+    "brandName": "7スマホレジ",
+    "appName": "7スマホレジ",
+    "customURLScheme": "sejsmrg",
+    "category": "決済・ポイント",
+    "shortcutName": "",
+    "linkedBrand": "セブン-イレブン",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "ikea",
+    "brandName": "IKEA",
+    "appName": "IKEA",
+    "customURLScheme": "ikea",
+    "category": "インテリア・家具",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "nitori-app",
+    "brandName": "ニトリ",
+    "appName": "ニトリアプリ",
+    "customURLScheme": "nitori-app",
+    "category": "インテリア・家具",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "mujipassport",
+    "brandName": "無印良品",
+    "appName": "MUJIアプリ",
+    "customURLScheme": "mujipassport",
+    "category": "インテリア・家具",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "ec-amazon",
+    "brandName": "Amazon",
+    "appName": "Amazon",
+    "customURLScheme": "",
+    "category": "ECサイト",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": "https://www.amazon.co.jp/"
+  },
+  {
+    "id": "ec-rakuten-ichiba",
+    "brandName": "楽天市場",
+    "appName": "楽天市場",
+    "customURLScheme": "rakuten",
+    "category": "ECサイト",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "ec-yahoo-shopping",
+    "brandName": "Yahoo!ショッピング",
+    "appName": "Yahoo!ショッピング",
+    "customURLScheme": "yjshp",
+    "category": "ECサイト",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "ec-mercari",
+    "brandName": "メルカリ",
+    "appName": "メルカリ",
+    "customURLScheme": "",
+    "category": "ECサイト",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": "https://jp.mercari.com/"
+  },
+  {
+    "id": "ec-zozotown",
+    "brandName": "ZOZOTOWN",
+    "appName": "ZOZOTOWN",
+    "customURLScheme": "zozotown",
+    "category": "ECサイト",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "cocos",
+    "brandName": "ココス",
+    "appName": "ココウェブ ～ココス公式アプリ～",
+    "customURLScheme": "",
+    "category": "ファミレス",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": "https://coco-web.jp/"
+  },
+  {
+    "id": "eneos-app",
+    "brandName": "ENEOS",
+    "appName": "ENEOSサービスステーションアプリ",
+    "customURLScheme": "com.eneos.ssapp",
+    "category": "ガソリンスタンド",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "royalhc-app",
+    "brandName": "ロイヤルホームセンター",
+    "appName": "ロイヤルホームセンター公式アプリ",
+    "customURLScheme": "royalhc-app",
+    "category": "ホームセンター",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "unknown:島忠",
+    "brandName": "島忠",
+    "appName": "島忠・ホームズアプリ",
+    "customURLScheme": "",
+    "category": "ホームセンター",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  }
+]
