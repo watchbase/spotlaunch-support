@@ -218,5 +218,25 @@
     "shortcutName": "",
     "linkedBrand": "",
     "universalLinkURL": ""
+  },
+  {
+    "id": "jp.co.shiseido.beautykey",
+    "brandName": "Beauty Key",
+    "appName": "Beauty Key",
+    "customURLScheme": "jp.co.shiseido.beautykey",
+    "category": "ファッション・コスメ",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
+  },
+  {
+    "id": "adastriaapp",
+    "brandName": "アンドエスティ",
+    "appName": "アンドエスティ",
+    "customURLScheme": "adastriaapp",
+    "category": "ファッション・コスメ",
+    "shortcutName": "",
+    "linkedBrand": "",
+    "universalLinkURL": ""
   }
 ]
