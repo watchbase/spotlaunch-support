@@ -183,7 +183,7 @@
     "id": "cocos",
     "brandName": "ココス",
     "appName": "ココウェブ ～ココス公式アプリ～",
-    "customURLScheme": "",
+    "customURLScheme": "coco-web-app",
     "category": "レストラン",
     "shortcutName": "",
     "linkedBrand": "",
