@@ -194,6 +194,48 @@ footer {
   white-space: pre-line;
 }
 
+/* --- landing page specific --- */
+.hero-shot {
+  margin: 8px 0 44px;
+  text-align: center;
+}
+.hero-shot img {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  box-shadow: 0 20px 40px -20px rgba(0, 0, 0, 0.35);
+}
+
+.feature-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.feature {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 22px;
+}
+.feature h3 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+.feature p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+.feature img.shot {
+  max-width: 260px;
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  display: block;
+  margin-top: 16px;
+}
+
 .steps {
   display: flex;
   flex-direction: column;
