@@ -1,28 +1,28 @@
 :root {
-  --bg: #fbfaf8;
-  --surface: #ffffff;
-  --fg: #201c16;
-  --muted: #6f6a61;
-  --accent: #c1690a;
-  --border: #e8e3da;
+  --bg: #ffffff;
+  --surface: #fffaf4;
+  --fg: #22190f;
+  --muted: #8a7f6f;
+  --accent: #ff7a1a;
+  --border: #f2e6d8;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #17140f;
-    --surface: #1e1a14;
-    --fg: #f3efe6;
-    --muted: #a89e8d;
-    --accent: #e79a3f;
-    --border: #322c22;
+    --bg: #201a12;
+    --surface: #2a2117;
+    --fg: #fbf3e7;
+    --muted: #c2b39d;
+    --accent: #ffa64d;
+    --border: #3d3122;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #17140f;
-  --surface: #1e1a14;
-  --fg: #f3efe6;
-  --muted: #a89e8d;
-  --accent: #e79a3f;
-  --border: #322c22;
+  --bg: #201a12;
+  --surface: #2a2117;
+  --fg: #fbf3e7;
+  --muted: #c2b39d;
+  --accent: #ffa64d;
+  --border: #3d3122;
 }
 
 * { box-sizing: border-box; }
@@ -199,12 +199,19 @@ footer {
   margin: 8px 0 44px;
   text-align: center;
 }
-.hero-shot img {
+.hero-shot img,
+.hero-shot video {
   max-width: 300px;
   width: 100%;
   border-radius: 16px;
   border: 1px solid var(--border);
   box-shadow: 0 20px 40px -20px rgba(0, 0, 0, 0.35);
+}
+.hero-video-caption {
+  margin: 12px auto 0;
+  max-width: 300px;
+  color: var(--muted);
+  font-size: 0.82rem;
 }
 
 .feature-grid {
